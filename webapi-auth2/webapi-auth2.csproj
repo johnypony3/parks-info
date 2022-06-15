@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>webapi_auth2</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.3.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="Controllers\V1\" />
+    <None Remove="Conventions\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Controllers\V1\" />
+    <Folder Include="Conventions\" />
+  </ItemGroup>
+</Project>
