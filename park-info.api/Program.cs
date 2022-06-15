@@ -5,7 +5,7 @@ var titleBase = "Parks API";
 
 builder.Services.AddControllers(options =>
 {
-    options.Conventions.Add(new webapi_auth2.Conventions.GroupingByNamespaceConvention());
+    options.Conventions.Add(new park_info.Conventions.GroupingByNamespaceConvention());
 });
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen(config =>

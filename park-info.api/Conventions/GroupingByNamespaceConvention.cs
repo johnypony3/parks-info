@@ -1,7 +1,6 @@
-﻿#pragma warning disable CS8602 // Dereference of a possibly null reference.
-using Microsoft.AspNetCore.Mvc.ApplicationModels;
+﻿using Microsoft.AspNetCore.Mvc.ApplicationModels;
 
-namespace webapi_auth2.Conventions
+namespace park_info.Conventions
 {
     public class GroupingByNamespaceConvention : IControllerModelConvention
     {
@@ -14,4 +13,3 @@ namespace webapi_auth2.Conventions
         }
     }
 }
-#pragma warning restore CS8602 // Dereference of a possibly null reference.

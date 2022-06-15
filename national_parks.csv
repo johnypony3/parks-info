@@ -1,0 +1,192 @@
+Type,Name,State
+National,Denali ,AK
+National,Gates of the Arctic,AK
+National,Glacier Bay ,AK
+National,Katmai,AK
+National,Kenai Fjords,AK
+National,Kobuk Valley,AK
+National,Lake Clark,AK
+National,Wrangell–St. Elias *,AK
+National,American Samoa,AS
+National,Grand Canyon *,AZ
+National,Petrified Forest,AZ
+National,Saguaro,AZ
+National,Hot Springs,AR
+National,Channel Islands ,CA
+National,Joshua Tree ,CA
+National,Kings Canyon ,CA
+National,Lassen Volcanic,CA
+National,Pinnacles,CA
+National,Redwood *,CA
+National,Sequoia ,CA
+National,Yosemite *,CA
+National,Death Valley ,CA
+National,Black Canyon of the Gunnison,CO
+National,Great Sand Dunes,CO
+National,Mesa Verde *,CO
+National,Rocky Mountain ,CO
+National,Biscayne,FL
+National,Dry Tortugas ,FL
+National,Everglades ,FL
+National,Haleakalā ,HI
+National,Hawaiʻi Volcanoes ,HI
+National,Indiana Dunes,IN
+National,Mammoth Cave ,KY
+National,Acadia,ME
+National,Isle Royale ,MI
+National,Voyageurs,MN
+National,Gateway Arch,MO
+National,Glacier ,MT
+National,Great Basin,NV
+National,Carlsbad Caverns *,NM
+National,White Sands,NM
+National,Great Smoky Mountains ,NC
+National,Theodore Roosevelt,ND
+National,Cuyahoga Valley,OH
+National,Crater Lake,OR
+National,Congaree ,SC
+National,Badlands,SD
+National,Wind Cave,SD
+National,Big Bend ,TX
+National,Guadalupe Mountains,TX
+National,Virgin Islands,VI
+National,Arches,IT
+National,Bryce Canyon,IT
+National,Canyonlands,IT
+National,Capitol Reef,IT
+National,Zion,IT
+National,Shenandoah,VA
+National,Mount Rainier,WA
+National,North Cascades,WA
+National,Olympic ,WA
+State,Anderson Lake State Park,WA
+State,Battle Ground Lake State Park,WA
+State,Bay View State Park,WA
+State,Beacon Rock State Park,WA
+State,Belfair State Park,WA
+State,Birch Bay State Park,WA
+State,Blake Island State Park,WA
+State,Blind Island State Park,WA
+State,Bogachiel State Park,WA
+State,Bridgeport State Park,WA
+State,Bridle Trails State Park,WA
+State,Brooks Memorial State Park,WA
+State,Cama Beach State Park,WA
+State,Camano Island State Park,WA
+State,Cape Disappointment State Park,WA
+State,Centennial Trail State Park,WA
+State,Columbia Hills State Park,WA
+State,Columbia Plateau Trail State Park,WA
+State,Conconully State Park,WA
+State,Crawford State Park,WA
+State,Curlew Lake State Park,WA
+State,Columbia Park Kennewick,WA
+State,Damon Point State Park,WA
+State,Daroga State Park,WA
+State,Dash Point State Park,WA
+State,Deception Pass State Park,WA
+State,Dosewallips State Park,WA
+State,Doug's Beach State Park,WA
+State,Fay Bainbridge State Park,WA
+State,Federation Forest State Park,WA
+State,Fields Spring State Park,WA
+State,Flaming Geyser State Park,WA
+State,Fort Casey State Park,WA
+State,Fort Columbia State Park,WA
+State,Fort Ebey State Park,WA
+State,Fort Flagler State Park,WA
+State,Fort Okanogan State Park,WA
+State,Fort Simcoe State Park,WA
+State,Fort Townsend State Park,WA
+State,Fort Ward State Park,WA
+State,Fort Worden State Park,WA
+State,Ginkgo/Wanapum State Park,WA
+State,Goldendale Observatory State Park,WA
+State,Grayland Beach State Park,WA
+State,Griffiths-Priday State Park,WA
+State,Harstine Island State Park,WA
+State,Hope Island State Park (Mason County),WA
+State,Hope Island State Park (Skagit County),WA
+State,Ike Kinswa State Park,WA
+State,Illahee State Park,WA
+State,Iron Horse State Park,WA
+State,Jarrell Cove State Park,WA
+State,Joemma Beach State Park,WA
+State,Joseph Whidbey State Park,WA
+State,Kanaskat-Palmer State Park,WA
+State,Kitsap Memorial State Park,WA
+State,Kopachuck State Park,WA
+State,Lake Chelan State Park,WA
+State,Lake Easton State Park,WA
+State,Lake Isabella State Park,WA
+State,Lake Sammamish State Park,WA
+State,Lake Sylvia State Park,WA
+State,Lake Wenatchee State Park,WA
+State,Larrabee State Park,WA
+State,Leadbetter Point State Park,WA
+State,Lewis and Clark State Park,WA
+State,Lewis and Clark Trail State Park,WA
+State,Lime Kiln Point State Park,WA
+State,Lincoln Rock State Park,WA
+State,Loomis Lake State Park,WA
+State,Manchester State Park,WA
+State,Maryhill State Park,WA
+State,Millersylvania State Park,WA
+State,Moran State Park,WA
+State,Mount Pilchuck State Park,WA
+State,Mount Spokane State Park,WA
+State,Mystery Bay State Park,WA
+State,Nolte State Park,WA
+State,Ocean City State Park,WA
+State,Olallie State Park,WA
+State,Olmstead Place State Park,WA
+State,Osoyoos Lake State Park,WA
+State,Pacific Beach State Park,WA
+State,Pacific Pines State Park,WA
+State,Palouse Falls State Park,WA
+State,Paradise Point State Park,WA
+State,Patos Island State Park,WA
+State,Peace Arch State Park,WA
+State,Pearrygin Lake State Park,WA
+State,Penrose Point State Park,WA
+State,Peshastin Pinnacles State Park,WA
+State,Potholes State Park,WA
+State,Potlatch State Park,WA
+State,Rainbow Falls State Park,WA
+State,Rasar State Park,WA
+State,Riverside State Park,WA
+State,Rockport State Park,WA
+State,Rothschild House State Park,WA
+State,Sacajawea State Park,WA
+State,Saint Edward State Park,WA
+State,Saltwater State Park,WA
+State,Scenic Beach State Park,WA
+State,Schafer State Park,WA
+State,Seaquest State Park,WA
+State,Sequim Bay State Park,WA
+State,Shine Tidelands State Park,WA
+State,Skull Island State Park,WA
+State,South Whidbey State Park,WA
+State,Spencer Spit State Park,WA
+State,Squak Mountain State Park,WA
+State,Squilchuck State Park,WA
+State,Steamboat Rock State Park,WA
+State,Steptoe Battlefield State Park,WA
+State,Steptoe Butte State Park,WA
+State,Stretch Point State Park,WA
+State,Stuart Island State Park,WA
+State,Sucia Island State Park,WA
+State,Sun Lakes State Park,WA
+State,Tolmie State Park,WA
+State,Triton Cove State Park,WA
+State,Twanoh State Park,WA
+State,Twenty-Five Mile Creek State Park,WA
+State,Twin Harbors State Park,WA
+State,Wallace Falls State Park,WA
+State,Wenatchee Confluence State Park,WA
+State,West Hylebos State Park,WA
+State,Westport Light State Park,WA
+State,Yakima Sportsman State Park,WA
+National,New River Gorge,WV
+National,Grand Teton ,WY
+National,Yellowstone ,WY

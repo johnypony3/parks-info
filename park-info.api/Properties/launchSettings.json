@@ -9,7 +9,7 @@
     }
   },
   "profiles": {
-    "webapi_auth2": {
+    "park_info": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,
