@@ -8,6 +8,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{DC003C98-C701-4923-901C-60B738A2A8B9}"
 	ProjectSection(SolutionItems) = preProject
 		national_parks.csv = national_parks.csv
+		readme.md = readme.md
 	EndProjectSection
 EndProject
 Global

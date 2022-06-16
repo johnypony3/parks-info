@@ -10,7 +10,7 @@ builder.Services.AddControllers(options =>
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen(config =>
 {
-    var description = "This is a Web API for Parks operations";
+    var description = "This is a Web API for Parks operations.";
     var TermsOfService = new Uri("https://udemy.com/user/evgeniyameshuris/");
     var License = new OpenApiLicense()
     {

@@ -11,12 +11,17 @@ public class ParkInfoController : ControllerBase
     public IEnumerable<ParkInfo> Get()
     {
         return new ParkInfo[] {
-            new ParkInfo(true, "Denali", "AK"),
-            new ParkInfo(true, "Great Smoky Mountains ", "VI"),
-            new ParkInfo(true, "Congaree ", "WY"),
-            new ParkInfo(true, "Lake Chelan State Park", "WA")
+            new ParkInfo(1, true, "Denali", "AK"),
+            new ParkInfo(2, true, "Great Smoky Mountains ", "VI"),
+            new ParkInfo(3, true, "Congaree ", "WY"),
+            new ParkInfo(4, true, "Lake Chelan State Park", "WA")
         };
+    }
 
+    [HttpPost]
+    public IActionResult Create(ParkInfo parkInfo)
+    {
+        return Ok(new { message = $"Park {parkInfo.Name} has been created" });
     }
 }
 
