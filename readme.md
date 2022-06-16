@@ -7,4 +7,4 @@
     * web api authentication
         - http://codingsonata.com/secure-asp-net-core-web-api-using-api-key-authentication
     * web api swagger
-        - _none_ built into project template
+        - **_none_** swagger is built into the dotnet webapi project project template
